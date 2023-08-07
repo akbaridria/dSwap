@@ -1,0 +1,26 @@
+[
+  {
+    "chainId": 420,
+    "chainName": "Optimism Goerli",
+    "chainIdHex": "0x1a4",
+    "rpc": "https://goerli.optimism.io",
+    "currencySymbol": "ETH",
+    "admin": "0x694aCF4DFb7601F92A0D2a41cdEC5bf7726C7294",
+    "initCodehash": "",
+    "factoryAddress": "",
+    "routerAddress": "",
+    "feeAddress": ""
+  },
+  {
+    "chainId": 84531,
+    "chainName": "Base Goerli",
+    "chainIdHex": "0x14a33",
+    "rpc": "https://goerli.base.org",
+    "currencySymbol": "ETH",
+    "admin": "0x694aCF4DFb7601F92A0D2a41cdEC5bf7726C7294",
+    "initCodehash": "",
+    "factoryAddress": "",
+    "routerAddress": "",
+    "feeAddress": ""
+  }
+]
